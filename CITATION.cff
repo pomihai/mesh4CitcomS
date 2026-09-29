@@ -5,7 +5,7 @@ authors:
   given-names: "Mihai"
   orcid: "https://orcid.org/0000-0001-9960-950X"
 title: "mesh4CitcomS"
-version: 0.0.1
-doi: 10.5281/zenodo.7422637
+version: 1.0
+doi: some DOI
 date-released: 2026-09-29
 url: "https://github.com/pomihai/mesh4CitcomS"
