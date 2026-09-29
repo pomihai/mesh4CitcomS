@@ -53,19 +53,19 @@ second node and finishing with the last:
 Plotting like this a *regular* axis would look like parts of the following image
 (the middle part for example):
 
-![here reg example](file:///home/pomihai/wok/comunicari/2026/try_revue_roumaine_IGSSAR_only_mesh/try_meshes_4show/4GitHub/images/Regular.png)
+![here reg example](https://github.com/pomihai/mesh4CitcomS/blob/main/images/Regular.png)
 
 
 #### Linear
 Plotting like this a *linear* axis would look something like the following image:
 
-![here lin example](file:///home/pomihai/wok/comunicari/2026/try_revue_roumaine_IGSSAR_only_mesh/try_meshes_4show/4GitHub/images/Linear.png)
+![here lin example](https://github.com/pomihai/mesh4CitcomS/blob/main/images/Linear.png)
 
 
 #### Gaussian
 Plotting like this a *gaussian* axis would look like the following image:
 
-![here gauss example](file:///home/pomihai/wok/comunicari/2026/try_revue_roumaine_IGSSAR_only_mesh/try_meshes_4show/4GitHub/images/Gaussian.png)
+![here gauss example](https://github.com/pomihai/mesh4CitcomS/blob/main/images/Gaussian.png)
 
 
 ### Actual usage
